@@ -35,7 +35,7 @@ Sinta-se à vontade para:
 
 Este projeto tem caráter **educacional** e foi criado com a intenção de **compartilhar conhecimento** e facilitar o início de quem está entrando na área.
 
-[Acesse aqui:] (https://nicolas12-web.github.io/portfolio-template-origamid/)
+Acesse aqui:(https://nicolas12-web.github.io/portfolio-template-origamid/)
 
 Bons estudos e bons códigos! 😊
 
